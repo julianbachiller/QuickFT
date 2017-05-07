@@ -7,7 +7,7 @@ circumventing the operating system's network file operations capabilities and im
 Both the QuickFT protocol and the Linux port should be considered an excersise in protocol design
 and sockets programming in C language.
 
-The library implementation allows programs to set up a server or a client very easily, asi shown in
+The library implementation allows programs to set up a server or a client very easily, as shown in
 the program examples bundled with the library.
 
 The server is designed in such a way that allows serving multiple simultaneous requests from file
